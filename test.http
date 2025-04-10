@@ -1,0 +1,14 @@
+### Register a new user
+POST https://localhost:7001/api/user/register
+Content-Type: application/json
+
+{
+    "userName": "testuser",
+    "password": "testpass123"
+}
+
+### Login with credentials
+GET https://localhost:7001/api/user/login?username=testuser&password=testpass123
+
+### Get all users
+GET https://localhost:7001/api/user/users 
