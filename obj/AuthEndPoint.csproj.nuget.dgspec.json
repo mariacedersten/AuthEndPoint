@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj": {}
+    "/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/AuthEndPoint.csproj": {}
   },
   "projects": {
-    "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj": {
+    "/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/AuthEndPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj",
+        "projectUniqueName": "/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/AuthEndPoint.csproj",
         "projectName": "AuthEndPoint",
-        "projectPath": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj",
+        "projectPath": "/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/AuthEndPoint.csproj",
         "packagesPath": "/Users/s2401554/.nuget/packages/",
-        "outputPath": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/obj/",
+        "outputPath": "/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/s2401554/.nuget/NuGet/NuGet.Config"

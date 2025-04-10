@@ -66,3 +66,28 @@ C:/Projects/C#/AuthEndPoint/obj/Debug/net9.0/ref/AuthEndPoint.dll
 /Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.pdb
 /Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.genruntimeconfig.cache
 /Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/obj/Debug/net9.0/ref/AuthEndPoint.dll
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/bin/Debug/net9.0/AuthEndPoint.staticwebassets.endpoints.json
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/bin/Debug/net9.0/AuthEndPoint
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/bin/Debug/net9.0/AuthEndPoint.dll
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/bin/Debug/net9.0/AuthEndPoint.pdb
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.csproj.AssemblyReference.cache
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.AssemblyInfoInputs.cache
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.AssemblyInfo.cs
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.csproj.CoreCompileInputs.cache
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.sourcelink.json
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/scopedcss/bundle/AuthEndPoint.styles.css
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets.build.json
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets.development.json
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets/msbuild.AuthEndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets/msbuild.AuthEndPoint.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets/msbuild.build.AuthEndPoint.props
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.AuthEndPoint.props
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.AuthEndPoint.props
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.dll
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/refint/AuthEndPoint.dll
+/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/obj/Debug/net9.0/AuthEndPoint.pdb

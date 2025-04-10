@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qrF3/i+RgVE=",
+  "dgSpecHash": "LBtO1cAZqIs=",
   "success": true,
-  "projectFilePath": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj",
+  "projectFilePath": "/Users/s2401554/Desktop/nimetön kansio/AuthEndPoint/AuthEndPoint.csproj",
   "expectedPackageFiles": [
     "/Users/s2401554/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "/Users/s2401554/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
