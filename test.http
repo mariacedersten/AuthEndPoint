@@ -1,5 +1,5 @@
 ### Register a new user
-POST https://localhost:7001/api/user/register
+POST http://localhost:5000/api/user/register
 Content-Type: application/json
 
 {
@@ -8,7 +8,7 @@ Content-Type: application/json
 }
 
 ### Login with credentials
-GET https://localhost:7001/api/user/login?username=testuser&password=testpass123
+GET http://localhost:5000/api/user/login?username=testuser&password=testpass123
 
 ### Get all users
-GET https://localhost:7001/api/user/users 
+GET http://localhost:5000/api/user/users 

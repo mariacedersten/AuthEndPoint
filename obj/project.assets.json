@@ -462,19 +462,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chavg\\.nuget\\packages\\": {}
+    "/Users/s2401554/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\C#\\AuthEndPoint\\AuthEndPoint.csproj",
+      "projectUniqueName": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj",
       "projectName": "AuthEndPoint",
-      "projectPath": "C:\\Projects\\C#\\AuthEndPoint\\AuthEndPoint.csproj",
-      "packagesPath": "C:\\Users\\chavg\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\C#\\AuthEndPoint\\obj\\",
+      "projectPath": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/AuthEndPoint.csproj",
+      "packagesPath": "/Users/s2401554/.nuget/packages/",
+      "outputPath": "/Users/s2401554/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/AuthEndPoint/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chavg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/s2401554/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -532,7 +532,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
